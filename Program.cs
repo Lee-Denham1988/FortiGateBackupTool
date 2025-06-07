@@ -5,7 +5,7 @@ static void main ()
 
     try
     {
-        Console.WriteLine("Fortigate Backup Service Starting...");
+        Console.WriteLine("Fortigate Backup Service Starting..."); // On-screen notifiation that the application is started properly.
 
         while (true)
         {
